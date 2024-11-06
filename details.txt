@@ -1,0 +1,4 @@
+Jane | 35 | F
+Rosie | 30 | F
+George | 40 | M
+Jack | 40 | M
